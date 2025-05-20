@@ -3,8 +3,8 @@
 Berikut adalah daftar proyek GitHub saya, diurutkan sesuai kategori dan relevansi:
 
 ## 🔧 Quality Assurance
-1. [Java Fundamental]([https://github.com/username/toolbox](https://github.com/Dickywhyd25/ujian-java-fundamental-dickywahyudi)
-2. [Java Testng]([https://github.com/username/jsonformatter](https://github.com/Dickywhyd25/ujian-java-testng)
+1. [Java Fundamental](https://github.com/Dickywhyd25/ujian-java-fundamental-dickywahyudi)
+2. [Java Testng](https://github.com/Dickywhyd25/ujian-java-testng)
 3. [Page Object Factory saucedemo-Selenium](https://github.com/Dickywhyd25/PageObjectFactoryTest-W03-DickyWahyudi)
 4. [Login page saucedemo-Cucumber](https://github.com/Dickywhyd25/AutomationTestingW04-DickyWahyudi)
 5. [API-Postman](https://github.com/Dickywhyd25/API-Postman)
