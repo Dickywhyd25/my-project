@@ -18,7 +18,7 @@ Berikut adalah daftar proyek GitHub saya, diurutkan sesuai kategori dan relevans
 2. [Sistem Pakar](https://github.com/Dickywhyd25/SPTonsillitis)
 
 ## 📂 Lain-lain
-1. [Portofolio](https://github.com/Dickywhyd25/Portofolio)
+1. [Portofolio](https://dickywhyd25.github.io/Portofolio/)
 
 ---
 
