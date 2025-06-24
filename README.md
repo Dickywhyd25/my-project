@@ -11,6 +11,7 @@ Berikut adalah daftar proyek GitHub saya, diurutkan sesuai kategori dan relevans
 6. [Cucumber](https://github.com/Dickywhyd25/Cucumber-Testing)
 7. [JMETER-TEST-API](https://github.com/Dickywhyd25/JMETER-TEST-API)
 8. [Automation Testing Web Hadir-Katalon](https://github.com/Dickywhyd25/HadirApp)
+9. [Manual Testing Rajawali Duta School] (https://github.com/Dickywhyd25/RjaApp)
 
 ## 📱 Web
 1. [Sistem Informasi Perpusatakaan](https://github.com/Dickywhyd25/Perpustakaan)
